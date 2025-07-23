@@ -18,10 +18,10 @@ To deploy a Node.js application on an AWS EC2 instance using Ubuntu and host a d
 ---
 
 ### 🛠️ EC2 Configuration -
-- Instance type: `t2.micro`
-- OS: Ubuntu 20.04 LTS
-- Storage: 8 GB (default)
-- Installed dependencies:
+- Instance type - `t2.micro`
+- OS - Ubuntu 20.04 LTS
+- Storage - 8 GB (default)
+- Installed dependencies -
   ```bash
   sudo apt update
   sudo apt install nodejs npm -y
@@ -59,10 +59,10 @@ To deploy **Robot Operating System (ROS) Noetic** on a cloud-based EC2 instance.
 ---
 
 ### 🔧 Requirements -
-- Instance type: `t2.micro`
-- OS: Ubuntu 20.04 LTS
-- Storage: 30 GB
-- ROS version: **ROS Noetic**
+- Instance type - `t2.micro`
+- OS - Ubuntu 20.04 LTS
+- Storage - 30 GB
+- ROS version - **ROS Noetic**
 
 ---
 
