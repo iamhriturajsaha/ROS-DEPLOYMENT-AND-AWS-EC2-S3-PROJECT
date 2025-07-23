@@ -1,6 +1,4 @@
 # ☁️ ROS Deployment and AWS EC2/S3 Project
- 
----
 
 ## 📦 Project 1 - Hosting a Node.js Web Application with Amazon EC2 and S3.
 
