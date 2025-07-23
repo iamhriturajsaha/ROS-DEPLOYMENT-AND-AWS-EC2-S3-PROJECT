@@ -41,7 +41,7 @@ To deploy a Node.js application on an AWS EC2 instance using Ubuntu and host a d
 
 ### 🧾 Application Setup -
 - Modified `completion.html` to -
-  - Replace `[Your Name]` with my actual name.
+  - Replace `Your Name` with actual name.
   - Embed public URLs of S3 images in place of `S3IMAGESURL`.
 - Uploaded application files via SSM to EC2 instance.
 - Started the Node.js server using -
