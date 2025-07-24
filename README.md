@@ -1,4 +1,4 @@
-# ☁️ ROS Deployment and AWS EC2/S3 Project
+# ☁️ROS Deployment and AWS EC2/S3 Project
 
 ## 📦 Project 1 - Hosting a Node.js Web Application with Amazon EC2 and S3.
 
@@ -87,9 +87,7 @@ To deploy **Robot Operating System (ROS) Noetic** on a cloud-based EC2 instance.
    ```bash
    source /opt/ros/noetic/setup.bash
    ```
-
-✅ **Successfully installed and sourced ROS Noetic. Ready for simulation and robotic development.**
-
+   
 ---
 
 ## 🧠 Learnings & Skills Gained -
